@@ -1,3 +1,6 @@
+// test switch function
+// Feb 8 2021
+
 const day = 'Monday';
 
 switch (day) {
